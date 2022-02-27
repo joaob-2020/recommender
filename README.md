@@ -1,4 +1,4 @@
-# The object of this project is to create a recommendation system for books.
+# The goal of this project is to create a recommendation system for books.
 # "The datasets were collected in late 2017 from goodreads.com, where we only scraped users' public shelves, i.e. everyone can see it on web without login. User IDs and review IDs are anonymized. "
     source: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph
     We will need three datasets to create search_engine.ipynb and recommendation.ipynb files:
